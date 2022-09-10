@@ -1,10 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Print the string in the puts function
- *
- * Descriptiom: using the main function
- * this program prints "Programming is like a multilingual puzzle
+ * main - print out a string to stdout
  * Return: 0 (Success)
  */
 int main(void)
